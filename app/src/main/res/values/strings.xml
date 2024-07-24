@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TTInteractiveVentures</string>
+    <string name="main_screen_text">Введите количество точек от 1 до 1000 и нажмите «Поехали», чтобы увидеть таблицу и график случайных координат.</string>
+    <string name="main_screen_edit_text_hint">1 – 1000</string>
+    <string name="main_screen_next_button_text">Поехали</string>
+    <string name="main_screen_error_text">Что-то пошло не так, попробуйте снова!</string>
+    <string name="main_screen_empty_result_error_text">К сожалению, сервер шлет пустой результат :(</string>
+    <string name="main_screen_network_error_text">Интернет-соединение отсутствует. Проверьте подключение и повторите попытку снова.</string>
+
+    <string name="chart_screen_sava_chart_button_text">Сохранить</string>
+    <string name="chart_screen_sava_chart_default_file_name">chart_image%s.png</string>
+    <string name="chart_screen_sava_chart_success_text">График сохранен в галерею</string>
+    <string name="chart_screen_sava_chart_error_text">Ошибка при сохранении файла: %s</string>
+    <string name="chart_screen_sava_chart_error_create_filte_text">Не удалось создать файл</string>
+</resources>
